@@ -9,3 +9,8 @@ Unix:
 ````
 pip3 install python-vlc
 ````
+____________________________________________________________________________
+## Usage
+````
+python main.py # Excute from containing folder
+````
